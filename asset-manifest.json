@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/pourance/static/js/main.6409e70b.js",
+    "main.js": "/pourance/static/js/main.c8e3c789.js",
     "index.html": "/pourance/index.html",
-    "main.6409e70b.js.map": "/pourance/static/js/main.6409e70b.js.map"
+    "main.c8e3c789.js.map": "/pourance/static/js/main.c8e3c789.js.map"
   },
   "entrypoints": [
-    "static/js/main.6409e70b.js"
+    "static/js/main.c8e3c789.js"
   ]
 }
